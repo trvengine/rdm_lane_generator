@@ -46,7 +46,7 @@ All benchmarks run on Apple Silicon (release build). No warmup.
 Requires [Rust](https://rustup.rs/) (stable, 1.70+).
 
 ```bash
-git clone https://github.com/trvlabs/rdm_lane_generator
+git clone https://github.com/trvengine/rdm_lane_generator
 cd rdm_lane_generator
 cargo build --release
 ```
